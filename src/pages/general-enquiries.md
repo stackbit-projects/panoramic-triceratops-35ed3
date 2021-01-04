@@ -45,7 +45,7 @@ sections:
         default_value: Selecciona un asunto
         options:
           - Error del sitio
-          - Sponsorship
+          - Presupuesto
           - Other
       - input_type: textarea
         name: message
