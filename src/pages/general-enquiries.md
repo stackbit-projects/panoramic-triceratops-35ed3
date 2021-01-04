@@ -2,8 +2,8 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: This is the Hero
-    subtitle: The optional subtitle
+    title: Estamos para apoyarte
+    subtitle: Escríbenos tus dudas o sugerencias
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -31,33 +31,33 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nombre
+        default_value: Tu nombre y apellido
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Tu dirección de correo electrónico
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
-        default_value: Please select
+        label: Asunto
+        default_value: Selecciona un asunto
         options:
           - Error on the site
           - Sponsorship
           - Other
       - input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Mensaje
+        default_value: Tu mensaje
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formulario almacena mi información enviada para que
+          puedan ser contactados.
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium
