@@ -44,7 +44,7 @@ sections:
         label: Asunto
         default_value: Selecciona un asunto
         options:
-          - Error on the site
+          - Error del sitio
           - Sponsorship
           - Other
       - input_type: textarea
