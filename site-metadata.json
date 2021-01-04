@@ -8,7 +8,7 @@
     "header": {
         "title": "mmujica",
         "logo": "images/Logommujicaiconocon fondo.jpg",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "Servicios",
