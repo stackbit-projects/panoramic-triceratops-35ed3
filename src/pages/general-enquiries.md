@@ -44,7 +44,7 @@ sections:
         label: Asunto
         default_value: Selecciona un asunto
         options:
-          - Error del sitio
+          - Presupuesto
           - Presupuesto
           - Other
       - input_type: textarea
