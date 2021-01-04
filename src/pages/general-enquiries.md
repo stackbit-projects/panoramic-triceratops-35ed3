@@ -45,7 +45,7 @@ sections:
         default_value: Selecciona un asunto
         options:
           - Presupuesto
-          - Presupuesto
+          - Consulta
           - Other
       - input_type: textarea
         name: message
