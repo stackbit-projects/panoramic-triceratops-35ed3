@@ -37,7 +37,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Tu dirección de correo electró
+        default_value: Tu dirección de correo electrónico
         is_required: true
       - input_type: select
         name: subject
