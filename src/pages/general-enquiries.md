@@ -2,7 +2,7 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: This is the Hero
+    title: Estamos para apoyarte
     subtitle: The optional subtitle
     align: center
     padding_top: medium
