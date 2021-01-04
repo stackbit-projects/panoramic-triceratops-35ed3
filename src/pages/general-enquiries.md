@@ -16,11 +16,10 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
 
-      ### Privacy
+      ### Privacidad
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Los datos proporcionados en el formulario almacenan la información enviada
+      para que puedan ser contactados.
     content_align: left
     form_position: right
     form_width: fifty
