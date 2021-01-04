@@ -46,7 +46,7 @@ sections:
         options:
           - Presupuesto
           - Consulta
-          - Other
+          - orto
       - input_type: textarea
         name: message
         label: Mensaje
