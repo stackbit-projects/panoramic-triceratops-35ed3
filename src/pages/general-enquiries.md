@@ -33,6 +33,8 @@ sections:
         label: Email
         default_value: Tu dirección de correo electrónico
         is_required: true
+        options:
+          - lorem-ipsum
       - input_type: select
         name: subject
         label: Asunto
