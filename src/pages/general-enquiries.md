@@ -1,5 +1,5 @@
 ---
-title: General enquiries
+title: ContactoFormulario
 sections:
   - type: hero_section
     title: Estamos para apoyarte
