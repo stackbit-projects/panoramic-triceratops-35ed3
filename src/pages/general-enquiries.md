@@ -10,17 +10,11 @@ sections:
     background_color: none
   - type: form_section
     content: >-
-      ### Billing
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      ### Privacidad
 
-      ### Privacy
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Los datos proporcionados en el formulario almacenan la información enviada
+      para que puedan ser contactados.
     content_align: left
     form_position: right
     form_width: fifty
@@ -44,9 +38,9 @@ sections:
         label: Asunto
         default_value: Selecciona un asunto
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Presupuesto
+          - Consulta
+          - otros
       - input_type: textarea
         name: message
         label: Mensaje
