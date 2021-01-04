@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Estamos para apoyarte
-    subtitle: Escríbenos
+    subtitle: Escríbenos tus dudas o sugerencias
     align: center
     padding_top: medium
     padding_bottom: medium
