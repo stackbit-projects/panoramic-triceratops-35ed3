@@ -57,7 +57,7 @@ sections:
           Entiendo que este formulario almacena mi información enviada para que
           puedan ser contactados.
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium
